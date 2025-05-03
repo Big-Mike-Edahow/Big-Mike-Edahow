@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p float="left">
 <img
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2ZHVsYTYwNG81ZXdzZm1wd3RkOHdpMnNueWJhaG51Z2MzeHE4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBucGBVpM8MLkvC/giphy.gif" width="200px">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NsM3Y3dXdqNnYyODJudGEwdHBnaHBxaW45c2E3bmd2bmdtanhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjnyFWiWaw8oDK/giphy.gif" width="200px">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlvODkyb2k2bXV1cDAxOWlzOW0yM2JqZm94a3h2NjBxOWhsdGdlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3G9QlJrSn2ZG/giphy.gif"  width="200">
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2ZHVsYTYwNG81ZXdzZm1wd3RkOHdpMnNueWJhaG51Z2MzeHE4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBucGBVpM8MLkvC/giphy.gif" height="200px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NsM3Y3dXdqNnYyODJudGEwdHBnaHBxaW45c2E3bmd2bmdtanhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjnyFWiWaw8oDK/giphy.gif" height="200px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlvODkyb2k2bXV1cDAxOWlzOW0yM2JqZm94a3h2NjBxOWhsdGdlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3G9QlJrSn2ZG/giphy.gif"  height="200">
 </p>
 
 
