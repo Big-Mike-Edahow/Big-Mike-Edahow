@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Big Mike here. I first started using computers at the public library in Pocatello, Idaho when I was eight years old. My brother's and I enjoyed playing games such as Oregon Trail 🤠 and Taipan 🏴‍☠️ on Apple II computers. 🕹️
 
 <!--
 **Big-Mike-Edahow/Big-Mike-Edahow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
