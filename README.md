@@ -2,7 +2,7 @@
 **Big-Mike-Edahow/Big-Mike-Edahow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Hi there. 👋 Big Mike here. 🤓 I first started using computers at the public library in Pocatello, Idaho when I was eight years old. My brothers and I enjoyed playing games such as Oregon Trail 🤠 and Taipan 🏴‍☠️ on Apple II computers. 🕹️
+## Hi there. 👋 Big Mike here. 🤓 I first started using computers at the public library in Pocatello, Idaho when I was eight years old. My brothers and I enjoyed playing games such as Oregon Trail 🤠 and Taipan 🏴‍☠️ on Apple IIe computers. 🕹️
 <br>
 <p float="left">
 <img
