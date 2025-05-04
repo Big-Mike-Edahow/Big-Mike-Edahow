@@ -22,8 +22,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2ZHVsYTYwNG81ZXdzZm1wd
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
 </div>
-<div id="header" align="center">
-:fire: My Stats :
-</div>
+
+## :fire: My Stats :
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Big-Mike-Edahow&theme=tokyonight" alt="GitHub Streak" /></a>
