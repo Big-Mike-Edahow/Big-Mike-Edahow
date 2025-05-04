@@ -24,4 +24,4 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2ZHVsYTYwNG81ZXdzZm1wd
 </div>
 <br>
 ### :fire: My Stats :
-http://github-readme-streak-stats.herokuapp.com?user=Big-Mike-Edahow
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Big-Mike-Edahow&theme=tokyonight" alt="GitHub Streak" /></a>
