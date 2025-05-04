@@ -11,7 +11,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2ZHVsYTYwNG81ZXdzZm1wd
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NsM3Y3dXdqNnYyODJudGEwdHBnaHBxaW45c2E3bmd2bmdtanhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjnyFWiWaw8oDK/giphy.gif" height="150px">
 </p>
 
-### I enjoy making web apps with Go, Python, Flask, SQLite, MySQL, HTML, CSS and JavaScript. 🌐
+### I enjoy making web apps with Go, Python and Flask, SQLite, MySQL, HTML, CSS and JavaScript. 🌐
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
