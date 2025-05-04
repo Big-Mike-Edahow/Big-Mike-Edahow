@@ -22,4 +22,6 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajV2ZHVsYTYwNG81ZXdzZm1wd
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
 </div>
-
+<br>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Big-Mike-Edahow&theme=dark&background=000000)](https://git.io/streak-stats)
